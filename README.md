@@ -18,3 +18,5 @@ git config user.name "ZaDivan"
 git config user.email "ivansadovnikov44@gmail.com"
 
  ...
+#Status
+Viss strada forsi
